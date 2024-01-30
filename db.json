@@ -1,0 +1,29 @@
+{
+  "Todo-List": [
+    {
+      "task": "Gym",
+      "desc": "Go to gym at 7.30 AM",
+      "id": "86ba"
+    },
+    {
+      "id": "37d4",
+      "task": "Groceries",
+      "desc": "Buy groceries from XYZ Mart"
+    },
+    {
+      "id": "c797",
+      "task": "Wedding",
+      "desc": "Attend wedding at 7.00 PM"
+    },
+    {
+      "id": "a822",
+      "task": "Project",
+      "desc": "Complete project before 1st Feb"
+    },
+    {
+      "id": "c9ee",
+      "task": "Electricity Bill",
+      "desc": "Pay electricity bill before 30th jan"
+    }
+  ]
+}
